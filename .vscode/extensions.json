@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+		"dbaeumer.vscode-eslint",
+		"PKief.copy-branch-name",
+		"EditorConfig.EditorConfig",
+		"wix.vscode-import-cost",
+		"axetroy.vscode-npm-import-package-version",
+		"christian-kohler.npm-intellisense",
+		"bradlc.vscode-tailwindcss"
+	]
+}

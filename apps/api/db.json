@@ -1,0 +1,130 @@
+{
+	"shirts": [
+		{
+			"id": 1,
+			"title": "Tech T-Shirt Gola V",
+			"description": "A Tech T-shirt Gola V é nossa releitura tech da camiseta feminina com a gola levemente alongada. Feita com tecido INTECH®, tem os benefícios únicos da tecnologia INSIDER.",
+			"price": 169,
+			"sex": "female",
+			"details": [
+				{
+					"color": "Carmenere",
+					"hex": "#572531",
+					"img": "https://insiderstore.com.br/cdn/shop/files/KYOTO2072.jpg",
+					"sizes": ["P", "M", "G", "GG"]
+				},
+				{
+					"color": "Gray Mint",
+					"hex": "#dee9ce",
+					"img": "https://insiderstore.com.br/cdn/shop/files/INSKIN2411.jpg",
+					"sizes": ["P", "M"]
+				}
+			]
+		},
+		{
+			"id": 2,
+			"title": "Kit Ready-Go",
+			"description": "Kit composto por 2 Energy Top e 1 Motion Shorts",
+			"price": 488,
+			"sex": "female",
+			"details": [
+				{
+					"color": "Blue",
+					"hex": "#33405b",
+					"img": "https://insiderstore.com.br/cdn/shop/files/EASYENERGY6952.jpg",
+					"sizes": ["P", "GG"]
+				},
+				{
+					"color": "Green Moss",
+					"hex": "#535442",
+					"img": "https://insiderstore.com.br/cdn/shop/products/10_6a1cecf3-b394-4dd4-b884-66d48567f9f3.png",
+					"sizes": ["P", "G", "GG"]
+				}
+			]
+		},
+		{
+			"id": 3,
+			"title": "Air Loop Top 2.0",
+			"description": "Coleção Air Stripes 2.0, um upgrade com novo tecido mais resistente ao desgaste por atrito, para prolongar a durabilidade. Conforto e funcionalidade elevados a 2.ª potência.",
+			"price": 249,
+			"sex": "female",
+			"details": [
+				{
+					"color": "Black",
+					"hex": "#000",
+					"img": "https://insiderstore.com.br/cdn/shop/files/select-air-stripes-copy-1_4_a224b124-9dab-4500-b22b-a01b79db0d23.jpg",
+					"sizes": ["PP", "P", "M", "G", "GG", "XGG"]
+				},
+				{
+					"color": "Burnt Bronze",
+					"hex": "#793222",
+					"img": "https://insiderstore.com.br/cdn/shop/files/select-air-stripes-copy-1_3_d2602c8f-cb9e-475d-b54f-ad25707f2d4f.jpg",
+					"sizes": ["M", "G", "GG", "XGG"]
+				}
+			]
+		},
+		{
+			"id": 4,
+			"title": "Tech T-Shirt",
+			"description": "A Tech T-Shirt é a evolução da camiseta básica masculina. Feita com tecido INTECH®, tem os benefícios únicos da tecnologia Insider.",
+			"price": 159,
+			"sex": "male",
+			"details": [
+				{
+					"color": "Black",
+					"hex": "#000",
+					"img": "https://insiderstore.com.br/cdn/shop/files/1_d99de45e-9f94-4fbb-a3bf-13cdf2a7373e.jpg",
+					"sizes": ["P", "M", "G", "GG", "XGG", "XXGG"]
+				},
+				{
+					"color": "Indigo",
+					"hex": "#576091",
+					"img": "https://insiderstore.com.br/cdn/shop/files/INDIGO-01_9e373f24-b8be-41c5-9f12-5c6036ce9069.jpg",
+					"sizes": ["GG", "XGG", "XXGG"]
+				}
+			]
+		},
+		{
+			"id": 5,
+			"title": "Tech T-Shirt Long Sleeve",
+			"description": "Ideal para usar no inverno e na meia estação, a Tech T-Shirt Long Sleeve é feita com tecido INTECH® e tem as mesmas funcionalidades da best seller Tech T-shirt. Dessa vez com mangas longas para ajudar ainda mais a manter a temperatura corporal. ",
+			"price": 199,
+			"sex": "male",
+			"details": [
+				{
+					"color": "Black",
+					"hex": "#000",
+					"img": "https://insiderstore.com.br/cdn/shop/files/PRETO-01_93ba95cb-5abb-4270-9586-ca7200cc2acc.jpg",
+					"sizes": ["P", "M", "G", "GG", "XGG", "XXGG"]
+				},
+				{
+					"color": "Nori Green",
+					"hex": "#525041",
+					"img": "https://insiderstore.com.br/cdn/shop/files/JOGGERPRETA1010.jpg",
+					"sizes": ["M", "G", "GG"]
+				}
+			]
+		},
+		{
+			"id": 6,
+			"title": "Undershirt Anti Suor",
+			"description": "A Undershirt Anti Suor da Insider é a camiseta interna com camada dupla na região das axilas para maior proteção - indicada para quem tem transpiração moderada e sofre frequentemente com manchas de suor e mau odor na roupa. Feita com tecido SOFTOUCH®.",
+			"price": 159,
+			"sex": "male",
+			"details": [
+				{
+					"color": "Beige",
+					"hex": "#b59478",
+					"img": "https://insiderstore.com.br/cdn/shop/products/UndershirtAntiSuor_Bege-02.webp",
+					"sizes": ["P", "M", "G", "GG", "XGG", "XXGG"]
+				},
+				{
+					"color": "White",
+					"hex": "#fff",
+					"img": "https://insiderstore.com.br/cdn/shop/files/Block_GolaV_Branco.jpg",
+					"sizes": ["P", "M", "G"]
+				}
+			]
+		}
+	]
+}
